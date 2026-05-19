@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://pharaas.cseco.co.ke/sitemap.xml
